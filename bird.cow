@@ -1,0 +1,13 @@
+# test cowsay
+      $the_cow = <<"EOC";
+            $thoughts
+                $thoughts
+                        __//
+                       (*|*)
+                       |\ /|
+                      /  V  \
+                     /       \
+                   _/  |   |  \_
+                       |   |
+                      /|\ /|\
+EOC
